@@ -1,4 +1,4 @@
-# Comfyui_Lightweight_ver
+# ComfyUI_Smartphone_Screen_Workflow
 ComfyUI execution environment for Google Colab(Free)
 
 ## Features 
