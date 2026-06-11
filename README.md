@@ -16,3 +16,7 @@ ComfyUI execution environment for Google Colab(Free)
   2. Set the runtime to "T4 GPU" with Python 3, then choose "Run all".
   3. Open localtunnel URL
   4. Drag workflow.png into ComfyUI
+
+## Workflow JSON 
+Workflow JSON files  are shared on Discord.
+https://mekaemuchoukai.carrd.co/
