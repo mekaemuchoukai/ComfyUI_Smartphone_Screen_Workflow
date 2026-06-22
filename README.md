@@ -20,3 +20,10 @@ ComfyUI execution environment for Google Colab(Free)
 ## Workflow JSON 
 Workflow JSON files  are shared on Discord.
 https://mekaemuchoukai.carrd.co/
+
+## Changelog
+  v1.1 (2026-06-22)
+  - Added a threshold setting to Color to Mask.
+  - Added the following custom node:
+    - ComfyUI-RMBG
+  - Added JSON workflow files.
