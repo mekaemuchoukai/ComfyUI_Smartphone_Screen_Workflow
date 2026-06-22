@@ -15,7 +15,7 @@ ComfyUI execution environment for Google Colab(Free)
   1. Open notebook.ipynb in Google Colab
   2. Set the runtime to "T4 GPU" with Python 3, then choose "Run all".
   3. Open localtunnel URL
-  4. Drag workflow.png into ComfyUI
+  4. Import the JSON workflow file into ComfyUI
 
 ## Changelog
   v1.1 (2026-06-22)
