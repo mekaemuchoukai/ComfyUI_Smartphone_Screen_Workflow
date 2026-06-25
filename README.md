@@ -13,8 +13,8 @@ ComfyUI execution environment for Google Colab(Free)
 
 ## Usage 
   If you already have ComfyUI installed
-　　
-    Simply import the provided JSON workflow file into your existing ComfyUI environment.
+  
+  Simply import the provided JSON workflow file into your existing ComfyUI environment.
 
   If you do not have ComfyUI installed
     1. Open notebook.ipynb in Google Colab
